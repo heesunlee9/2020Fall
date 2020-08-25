@@ -1,0 +1,4 @@
+# assignment 
+- 자료구조 직접구현, 가급적 한 파일에 다 넣어라. 
+출력 : println() / a tight running time estimate for your algorithm, and => (efficiency), 정확한 증명은 필요 없다. 
+java.util.Scanner는 main() 이 있는 클래스에서만 쓸 것 
